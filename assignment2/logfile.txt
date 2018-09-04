@@ -1,0 +1,12 @@
+START: ti. 04. sep. 17:04:07 +0200 2018
+LABEL: This is Task 1
+END: ti. 04. sep. 17:04:18 +0200 2018
+
+START: ti. 04. sep. 17:04:28 +0200 2018
+LABEL: This is Task 2
+END: ti. 04. sep. 17:04:33 +0200 2018
+
+START: ti. 04. sep. 17:04:46 +0200 2018
+LABEL: This is Task 3
+END: ti. 04. sep. 17:04:47 +0200 2018
+
